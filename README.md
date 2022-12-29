@@ -1,3 +1,3 @@
-# s2fm-oneshot-Niko-session
-Niko and Sun model by:https://steamcommunity.com/sharedfiles/filedetails/?id=2076620702,you must open this session in sbox,because it need to read sbox default models
-**THE SESSION FILES ARE IN RELEASE,PLEASE DOWNLOAD FILE IN RELEASE PAGE**
+# S2FM Oneshot Niko Session
+Niko and Sun model: [SFM Steam Workshop Page](https://steamcommunity.com/sharedfiles/filedetails/?id=2076620702), you must open this session in sbox,because it needs to read sbox's default models.
+## THE SESSION FILES ARE IN [RELEASE PAGE](https://github.com/PoPenguin/s2fm-oneshot-Niko-session/releases), PLEASE DOWNLOAD THE FILES THERE INSTEAD.
